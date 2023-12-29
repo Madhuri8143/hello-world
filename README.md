@@ -1,3 +1,3 @@
-# maven-projects by madhu
-ample text
+# maven-projects by madhuri
+sample text
 Simple Maven Project
